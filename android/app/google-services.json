@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "969657043864",
+    "project_id": "demoauth-e6797",
+    "storage_bucket": "demoauth-e6797.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969657043864:android:73ba51b80e02d3534b79ed",
+        "android_client_info": {
+          "package_name": "com.cloneapp2nd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969657043864-6frfvvordr0mf7delfro250qqikqnvea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDphDDuUUyjxKyUGatnELW2UbSdEZjdbQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969657043864-6frfvvordr0mf7delfro250qqikqnvea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
